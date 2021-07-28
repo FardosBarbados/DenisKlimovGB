@@ -11,6 +11,7 @@
     <properties>
         <maven.compliers.source>1.16</maven.compliers.source>
         <maven.compliers.target>1.16</maven.compliers.target>
-    <properties/>
+    </properties>
+
     
 </project>
